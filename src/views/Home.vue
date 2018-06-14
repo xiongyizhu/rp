@@ -92,7 +92,7 @@
             <a class="btn btn-default">查看详情>></a>
           </div>
           <div class="col-6 col-sm-6 col-lg-4">
-            <h2>我是标题</h2>
+            <h2>我是标题1</h2>
             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
             <a class="btn btn-default">查看详情>></a>
           </div>
