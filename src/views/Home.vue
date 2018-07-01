@@ -6,8 +6,7 @@
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -62,7 +61,7 @@
         </p>
         <div class="jumbotron">
           <h1>Hello, world!</h1>
-          <p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
+          <p>这是一个示例，展示Bootstrap中offcanvas布局模式的潜力，尝试改变窗口大小，你会看到响应式布局发生的变化</p>
         </div>
 
         <div class="row">
